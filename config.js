@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Joon-Won Choi Portfolio', // <title>
+  siteTitle: 'Joon-Won Choi, // <title>
   manifestName: 'Spectral',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
