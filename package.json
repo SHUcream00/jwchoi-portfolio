@@ -1,16 +1,19 @@
 {
-  "name": "gatsby-starter-spectral",
+  "name": "Joon-Won Choi Portfolio",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Spectral by HTML5 UP",
+  "description": "Joon-Won Choi Portfolio using GatsbyJS and ReactJS",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-spectral.git"
+    "url": "git+https://github.com/SHUcream00/jwchoi-portfolio.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Joon-Won Choi",
+    "email": "joonwon.choi00@gmail.com"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "gatsby": "^2.20.2",
     "gatsby-plugin-manifest": "^2.3.1",
     "gatsby-plugin-offline": "^3.1.0",
@@ -45,7 +48,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-spectral/issues"
+    "url": "https://github.com/SHUcream00/jwchoi-portfolio/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-spectral#readme"
+  "homepage": "https://github.com/SHUcream00/jwchoi-portfolio#readme"
 }
